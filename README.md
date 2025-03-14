@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DiffRhythm-jupyter/blob/main/csm_1b_jupyter.ipynb) | csm_1b_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/csm-1b-jupyter/blob/main/csm_1b_jupyter.ipynb) | csm_1b_jupyter
 
 ### 🧬 Code
 https://github.com/SesameAILabs/csm
