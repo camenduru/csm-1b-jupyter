@@ -15,3 +15,5 @@ https://github.com/SesameAILabs/csm
 https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice
 
 ### 🖼 Output
+
+![Image](https://github.com/user-attachments/assets/afec15a7-6ff2-4c04-a0e5-eb75d6cba81d)
